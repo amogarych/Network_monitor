@@ -1,0 +1,23 @@
+{
+  "start": "Start",
+  "stop": "Stop",
+  "reset": "Reset",
+  "add": "Add",
+  "delete": "Delete",
+  "show_log": "Log",
+  "summary": "Summary",
+  "settings": "Settings",
+  "enter_ip": "Enter IP:",
+  "enter_name": "Enter Name:",
+  "rename": "Rename",
+  "rename_prompt": "Enter new name:",
+  "log_window_title": "Log",
+  "clear_log": "Clear Log",
+  "save_log": "Save Log",
+  "log_saved": "Saved",
+  "summary_title": "Summary",
+  "no_issues": "No issues",
+  "language": "Language",
+  "save": "Save",
+  "no_selection": "No devices selected"
+}

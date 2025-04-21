@@ -1,0 +1,23 @@
+{
+  "start": "Старт",
+  "stop": "Стоп",
+  "reset": "Сброс",
+  "add": "Добавить",
+  "delete": "Удалить",
+  "show_log": "Журнал",
+  "summary": "Сводка",
+  "settings": "Настройки",
+  "enter_ip": "Введите IP:",
+  "enter_name": "Введите имя:",
+  "rename": "Переименование",
+  "rename_prompt": "Введите новое имя:",
+  "log_window_title": "Журнал",
+  "clear_log": "Очистить журнал",
+  "save_log": "Сохранить журнал",
+  "log_saved": "Сохранение",
+  "summary_title": "Сводка",
+  "no_issues": "Нет неполадок",
+  "language": "Язык",
+  "save": "Сохранить",
+  "no_selection": "Не выбрано устройств"
+}
